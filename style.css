@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-    font: 600 3em 'Ralway', sans-serif;
+    font: 600 3.5em 'Ralway', sans-serif;
     color: rgba(0,0,0,.5em);
     width: 100%;
 }
 
 h3 {
-    font: 900 0.9em 'Raleway', sans-serif;
+    font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
